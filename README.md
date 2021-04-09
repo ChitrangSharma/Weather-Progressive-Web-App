@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+this project is using Open Weather API to create a weather progressive application using ReactJs
+This application is deployed over Netlify and SSL secured as well 
+90% optimized as lighthouse results in PWA
 
 ## Available Scripts
 
